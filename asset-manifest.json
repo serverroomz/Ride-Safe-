@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ride-Safe-/static/css/main.144394ee.css",
+    "main.js": "/Ride-Safe-/static/js/main.cc738d5c.js",
+    "index.html": "/Ride-Safe-/index.html",
+    "main.144394ee.css.map": "/Ride-Safe-/static/css/main.144394ee.css.map",
+    "main.cc738d5c.js.map": "/Ride-Safe-/static/js/main.cc738d5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.144394ee.css",
+    "static/js/main.cc738d5c.js"
+  ]
+}
