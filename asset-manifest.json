@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ride-Safe-/static/css/main.62e1f752.css",
-    "main.js": "/Ride-Safe-/static/js/main.0af95dca.js",
+    "main.css": "/Ride-Safe-/static/css/main.6bb0aab1.css",
+    "main.js": "/Ride-Safe-/static/js/main.33ce7e55.js",
     "index.html": "/Ride-Safe-/index.html",
-    "main.62e1f752.css.map": "/Ride-Safe-/static/css/main.62e1f752.css.map",
-    "main.0af95dca.js.map": "/Ride-Safe-/static/js/main.0af95dca.js.map"
+    "main.6bb0aab1.css.map": "/Ride-Safe-/static/css/main.6bb0aab1.css.map",
+    "main.33ce7e55.js.map": "/Ride-Safe-/static/js/main.33ce7e55.js.map"
   },
   "entrypoints": [
-    "static/css/main.62e1f752.css",
-    "static/js/main.0af95dca.js"
+    "static/css/main.6bb0aab1.css",
+    "static/js/main.33ce7e55.js"
   ]
 }
